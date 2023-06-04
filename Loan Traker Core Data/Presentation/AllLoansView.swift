@@ -77,6 +77,7 @@ struct AllLoansView_Previews: PreviewProvider {
 
 
 /*
+ 
  struct AllLoansView: View {
  
  @StateObject var viewModel = AddLoanViewModel()
